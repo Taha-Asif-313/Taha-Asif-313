@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1ozSpas5abqrNYFgGwdcLSm0IBXBBgTtv/view?usp=drive_link" alt="bootstrap" width="40" height="40"/>
 <h1 align="center">Hi 👋, I'm Taha Asif</h1>
 <h3 align="center">A web developer!</h3>
 
