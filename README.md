@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-asif-313&label=Profile%20views&color=0e75b6&style=flat" alt="taha-asif-313" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taha-asif-313" alt="taha-asif-313" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [http://tahaasif.netlify.app/](http://tahaasif.netlify.app/)
