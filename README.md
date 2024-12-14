@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/uc?export=view&id=1ozSpas5abqrNYFgGwdcLSm0IBXBBgTtv
-" alt="bootstrap" width="1000"/>
 <h1 align="center">Hi 👋, I'm Taha Asif</h1>
 <h3 align="center">A web developer!</h3>
 
