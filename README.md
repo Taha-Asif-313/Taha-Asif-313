@@ -1,6 +1,6 @@
 <p align="center">
 
-<img width="200" height="200" src="github-header-image.png" alt="my banner">
+<img width="700" height="200" src="github-header-image.png" alt="my banner">
 
 </p>
 <h1 align="center">Hi 👋, I'm Taha Asif</h1>
