@@ -1,22 +1,92 @@
+<!-- Banner -->
 <p align="center">
-
-<img width="800" src="github-header-transformed.png" alt="my banner">
-
+  <img width="900" src="github-header-transformed.png" alt="Taha Asif Banner">
 </p>
-<h1 align="center">Hi 👋, I'm Taha Asif</h1>
-<h3 align="center">A developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-asif-313&label=Profile%20views&color=0e75b6&style=flat" alt="taha-asif-313" /> </p>
+<!-- Intro -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00C214;">Taha Asif</span></h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Creator of Smart Web Experiences</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+<p align="center">
+  <a href="https://tahaasif.netlify.app" target="_blank">
+    🌐 Portfolio
+  </a> •
+  <a href="https://tahaasif.netlify.app/blogs" target="_blank">
+    📝 Blogs
+  </a> •
+  <a href="mailto:tahaasifaqwe@gmail.com">
+    📧 Contact
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [http://tahaasif.netlify.app/](http://tahaasif.netlify.app/)
+---
 
-- 📝 I regularly write articles on [http://tahaasif.netlify.app/blogs](http://tahaasif.netlify.app/blogs)
+### 🚀 About Me
 
-- 📫 How to reach me **tahaasifaqwe@gmail.com**
+- 🌱 Currently exploring **Artificial Intelligence & Modern Web Frameworks**  
+- 💡 Passionate about **creating interactive, fast, and scalable applications**  
+- 👨‍💻 All my projects live here → [**tahaasif.netlify.app**](https://tahaasif.netlify.app)  
+- 🧠 I enjoy designing **UI/UX-driven products** that balance **functionality and aesthetics**  
+- 💬 Always open to discuss **AI, Web Dev, and Productivity Tools**  
+- 📫 Reach me at **tahaasifaqwe@gmail.com**
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### ⚙️ Tech Stack & Tools
 
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,redux,nodejs,express,mongodb,postgresql,mysql,python,go,php,graphql" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,bootstrap,sass,framer,firebase" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [**Linkidea**](https://linkidea.netlify.app) | A social platform for creators to share and explore innovative ideas in real time. | React, Node.js, Express, MongoDB, Tailwind |
+| [**LyfeSync**](https://lyfesync.netlify.app) | AI-powered productivity & mindfulness app for planning, journaling, and goal tracking. | React, Tailwind, Framer Motion |
+| [**Portfolio Site**](https://tahaasif.netlify.app) | Personal portfolio showcasing projects and blogs. | React, Tailwind, Vite |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=taha-asif-313&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=taha-asif-313&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taha-asif-313&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/taha-asif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://github.com/Taha-Asif-313" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="mailto:tahaasifaqwe@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taha-asif-313&label=Profile%20Views&color=00C214&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+✨ _“Code with clarity, design with purpose, and build for people.”_  
