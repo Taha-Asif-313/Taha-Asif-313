@@ -8,11 +8,8 @@
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Creator of Smart Web Experiences</h3>
 
 <p align="center">
-  <a href="https://tahaasif.netlify.app" target="_blank">
+  <a href="https://tahaasif.neuctra.com" target="_blank">
     🌐 Portfolio
-  </a> •
-  <a href="https://tahaasif.netlify.app/blogs" target="_blank">
-    📝 Blogs
   </a> •
   <a href="mailto:tahaasifaqwe@gmail.com">
     📧 Contact
@@ -25,7 +22,7 @@
 
 - 🌱 Currently exploring **Artificial Intelligence & Modern Web Frameworks**  
 - 💡 Passionate about **creating interactive, fast, and scalable applications**  
-- 👨‍💻 All my projects live here → [**tahaasif.netlify.app**](https://tahaasif.netlify.app)  
+- 👨‍💻 All my projects live here → [**tahaasif.neuctra.com**](https://tahaasif.neuctra.com)  
 - 🧠 I enjoy designing **UI/UX-driven products** that balance **functionality and aesthetics**  
 - 💬 Always open to discuss **AI, Web Dev, and Productivity Tools**  
 - 📫 Reach me at **tahaasifaqwe@gmail.com**
@@ -48,9 +45,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Linkidea**](https://linkidea.netlify.app) | A social platform for creators to share and explore innovative ideas in real time. | React, Node.js, Express, MongoDB, Tailwind |
+| [**Necutra**](https://neuctra.com) | A social platform for creators to share and explore innovative ideas in real time. | React, Node.js, Express, MongoDB, Tailwind |
 | [**LyfeSync**](https://lyfesync.netlify.app) | AI-powered productivity & mindfulness app for planning, journaling, and goal tracking. | React, Tailwind, Framer Motion |
-| [**Portfolio Site**](https://tahaasif.netlify.app) | Personal portfolio showcasing projects and blogs. | React, Tailwind, Vite |
+| [**Portfolio Site**](https://tahaasif.neuctra.com) | Personal portfolio showcasing projects and blogs. | React, Tailwind, Vite |
 
 ---
 
