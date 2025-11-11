@@ -44,7 +44,7 @@
 |----------|--------------|------------|
 | [**Necutra**](https://neuctra.com) | A social platform for creators to share and explore innovative ideas in real time. | React, Node.js, Express, MongoDB, Tailwind |
 | [**LyfeSync**](https://lyfesync.netlify.app) | AI-powered productivity & mindfulness app for planning, journaling, and goal tracking. | React, Tailwind, Framer Motion |
-| [**Portfolio Site**](https://tahaasif.neuctra.com) | Personal portfolio showcasing projects and blogs. | React, Tailwind, Vite |
+| [**Portfolio**](https://tahaasif.neuctra.com) | Personal portfolio showcasing projects and blogs. | React, Tailwind, Vite |
 
 ---
 
