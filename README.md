@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="900" src="github-header-transformed2.png" alt="Taha Asif Banner">
+  <img width="900" style="border-radius:10px;" src="github-header-transformed2.png" alt="Taha Asif Banner">
 </p>
 
 <!-- Intro -->
