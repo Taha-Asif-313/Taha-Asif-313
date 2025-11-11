@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,redux,nodejs,express,mongodb,postgresql,mysql,python,go,php,graphql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,redux,nodejs,express,mongodb,postgresql,mysql,python,go,php,graphql,github,vscode,figma,postman,vercel,netlify,bootstrap,sass,framer,firebase" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,bootstrap,sass,framer,firebase" />
